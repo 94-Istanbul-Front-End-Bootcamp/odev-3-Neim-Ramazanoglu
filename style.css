@@ -76,9 +76,45 @@ input[type="email"] {
     color: gray;
 }
 
-.error {
+#errorId {
     font-size: 12px;
     color: orangered;
-    display: block;
+    display: none;
     padding-top: 5px;
 }
+
+#errorPassword {
+    font-size: 12px;
+    color: orangered;
+    display: none;
+    padding-top: 5px;
+}
+
+#errorPassword1 {
+    font-size: 12px;
+    color: orangered;
+    display: none;
+    padding-top: 5px;
+}
+
+#errorMail {
+    font-size: 12px;
+    color: orangered;
+    display: none;
+    padding-top: 5px;
+}
+
+#errorMail1 {
+    font-size: 12px;
+    color: orangered;
+    display: none;
+    padding-top: 5px;
+}
+
+#boxerror {
+    font-size: 12px;
+    color: orangered;
+    display: none;
+    padding-top: 5px;
+}
+
